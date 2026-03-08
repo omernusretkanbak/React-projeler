@@ -1,0 +1,1 @@
+# Tüm componenleri aynı anda tek dosya üstünde göstermek kafa karışıklığına sebep olur ve sonraki güncellemeler esnasında zorluk çıkartır. Onun için /components klasörü altına dosyalarımızı tek tek yazıp dosyamıza import edeceğiz.
